@@ -10,7 +10,7 @@ Styling: Customizable styling and theming for a visually appealing user interfac
 Usage
 
 **Clone the Repository:**
-git clone https://github.com/imtushaarr/ChatGPT-Clone.git
+git clone https://github.com/imtushaarr/ChatGPT-Clone-Project.git
 cd ChatGPT-Clone
 
 **Open index.html:**
